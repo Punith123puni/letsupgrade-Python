@@ -1,0 +1,19 @@
+str1="what we think we became ; we are Python program
+str1.count(we,0,15)
+2
+str1=find("we")
+5
+str1.rfind("we")
+25
+str2="python"
+str2.isupper()
+PYTHON
+str3="program"
+str3.isupper()
+PROGRAM
+str4="CREATING"
+str4.islower()
+creating
+str5="UPGRADE"
+str5.islower()
+upgrade
