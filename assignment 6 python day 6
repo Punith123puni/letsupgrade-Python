@@ -1,0 +1,18 @@
+assignment1:BY using dictionary 
+list1=[1,2,3,4,5,7,8,]
+list2=["a","b","c","d","e"]
+len1=min(len(list1), len(list2))
+dict={}
+     for each in range(len):
+	      dict1[list1[each]]=list2[each]
+print(dict1)
+
+
+
+assignment2:By using list comprehension
+list1=[1,2,3,4,5,7,8]
+list2=["a","b","c","d","e"]
+    for each in list1 :   
+         list2.append(list2)
+print(list2)		 
+		  
