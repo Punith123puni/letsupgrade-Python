@@ -1,0 +1,18 @@
+assignment1:
+port1={21:"FTP",22:"SSH",23:"Telnet",80:"http"}
+print(port1)
+port2={"FTP":21,"SSH":22,"Telnet":23,"http":80}
+print(port2)
+
+assignment2:
+tup1=[(1,2)(3,4)(5,6)(4,5)]
+print(tup1)
+for each in tup1:
+        sum=print(tup1)
+print(tup1)
+
+
+assignment3:
+       list1=[[1,2,3][1,2]['a','hit','less']
+	   print(dict(list1)
+	   
