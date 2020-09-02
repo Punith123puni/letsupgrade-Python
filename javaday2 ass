@@ -1,0 +1,34 @@
+1.question
+         var str = "hello world, welcome to the universe.";
+		 var n = str. indexof("welcome")
+		 
+2.question
+        
+         function timeconvert(n) {
+         var num = n;
+         var hours = (num /60);
+         var rhours = math.floor(hours);
+         var minutes = (hours - rhours) * 60;
+        var rminutes= math.round(minutes);
+         return num + "minutes = " + rhours + " hour(s) and " + rminutes + " minutes(s).";
+         }
+          console.log(timeconvert(200));
+3 question 
+        	var fruits = ["banana","orange","apple","mango"];
+             var a = fruits.indexof("apple");
+4 question
+           var a = ["saab","volvo","bmw"]
+            console. log(a[]);
+5 question
+         <html>
+              <head>
+                    <title>reverse order</title>
+              </head>
+                
+               <body>
+			      <script type = "text/javascript">
+				    var a = [0,1,2,3].reverse();
+					document.write("reversed array is : "+ a );
+				</script>				
+                </body>	
+          </html>`				
